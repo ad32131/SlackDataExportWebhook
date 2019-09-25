@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U6C5T4Y3D",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503403927.000181",
+        "text": "<@U6C5T4Y3D> has joined the channel"
+    },
+    {
+        "user": "U6D58AWQJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503405441.000177",
+        "text": "<@U6D58AWQJ> has joined the channel"
+    },
+    {
+        "user": "U6DCR0QLE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503411644.000350",
+        "text": "<@U6DCR0QLE> has joined the channel"
+    },
+    {
+        "user": "U6DEBFFF0",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503446462.000109",
+        "text": "<@U6DEBFFF0> has joined the channel"
+    },
+    {
+        "user": "U4MAMMH1A",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503451116.000185",
+        "text": "<@U4MAMMH1A> has joined the channel"
+    },
+    {
+        "user": "U6D9083V3",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503451954.000009",
+        "text": "<@U6D9083V3> has joined the channel"
+    },
+    {
+        "user": "U6JHW3S31",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503452094.000147",
+        "text": "<@U6JHW3S31> has joined the channel"
+    },
+    {
+        "user": "U6CE2K692",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503452449.000066",
+        "text": "<@U6CE2K692> has joined the channel"
+    },
+    {
+        "user": "U6CR720QZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503462116.000090",
+        "text": "<@U6CR720QZ> has joined the channel"
+    }
+]
